@@ -54,12 +54,6 @@ AIFFEL 리서치 과정 13기 quest를 저장할 Repository
     │   ├── GD09
     │   │     ├──README.md
     │   │     └── .ipynb
-    │   ├── GD10
-    │   │     ├──README.md
-    │   │     └── .ipynb
-    │   ├── GD11
-    │   │     ├──README.md
-    │   │     └── .ipynb
     ├── MainQuest
     │   ├── Quest01
     │   │     ├──README.md
